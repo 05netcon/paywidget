@@ -1,0 +1,17 @@
+#purchase-panel {
+    font-family:  'Ubuntu';
+    width: 100%;
+}
+
+#purchase-panel input[type=range] {
+    width: 100%;
+}
+
+#purchase-panel button[type=submit] {
+    background-color: #32b67a;
+    text-transform: capitalize;
+}
+
+#purchase-panel .tag {
+    font-family: 'Ubuntu Mono';
+}
